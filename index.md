@@ -4,9 +4,9 @@ layout: hello-default
 # using Markdown language, you can customize the following variables!
 
 # these variables are required -------------------------------
-banner_title: hello for github pages
-banner_subtitle: a minimalist template for personal websites
-background_image: /images/background.jpeg
+banner_title: olivia fiol
+banner_subtitle: a personal and professional portfolio space
+background_image: /images/a_monday_washing,_new_york_city_2006.170.15 copy.jpeg
 
 # all of the following variables are optional -----------------
 page_url: /hello # only include this variable if you aren't building the page to your primary domain 

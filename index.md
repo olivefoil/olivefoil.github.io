@@ -6,7 +6,7 @@ layout: hello-default
 # these variables are required -------------------------------
 banner_title: olivia fiol
 banner_subtitle: a personal and professional portfolio space
-background_image: /images/a_monday_washing,_new_york_city_Small.jpeg
+background_image: /images/a_monday_washing,_new_york_city_2006.170.15.jpg
 
 # all of the following variables are optional -----------------
 page_url: /home # only include this variable if you aren't building the page to your primary domain 

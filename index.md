@@ -43,13 +43,13 @@ cta_button_label: contact # the label on the button
 
 ---			
 [//]: # (write a bit about yourself here)
-### my name is olivia fiol (she/her/ella). welcome to my personal portfolio.  
+### my name is **olivia fiol (she/her/ella)**. welcome to my personal portfolio.  
 
-i attended vassar college and earned a degree in mathematics and am currently a research analyst at the urban institute and board member of the friends of the mt. pleasant library. if you are interested in my published works at the urban institute, please click [here](https://www.urban.org/author/olivia-fiol) or on the button below.  
+i attended vassar college and earned a degree in mathematics (2020). i'm currently a research analyst at the urban institute and board member of the [friends of the mt. pleasant library](https://mtpfriends.bigcartel.com/). if you are interested in my published works at urban, please click [here](https://www.urban.org/author/olivia-fiol) or on the button below.  
   
 i am aspiring urban design student, with a cross-discipline background ranging from theoretical math to studio arts, to mixed methods urban policy research. through design, i want to create warm, livable, and accessible places. 
 
-in my free time, you might find me selling books at the farmers market, sewing pieces for friends, or reading (and very happy about reading).
+in my free time, you might find me selling books at the farmers market, sewing pieces for friends, or reading (and feeling very happy about reading).
 
 currently based in washington, dc. 
 

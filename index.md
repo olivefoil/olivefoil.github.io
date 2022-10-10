@@ -45,12 +45,11 @@ cta_button_label: contact # the label on the button
 [//]: # (write a bit about yourself here)
 ### my name is olivia fiol (she/her/ella). welcome to my personal portfolio.  
 
-### if you are interested in my published works at the urban institute, please click [here](https://www.urban.org/author/olivia-fiol) or click on the button below.  
+if you are interested in my published works at the urban institute, please click [here](https://www.urban.org/author/olivia-fiol) or on the button below.  
   
-**hello** is a minimalist template that lets you design a beautiful website or portfolio on GitHub Pages - without installing a Ruby
-development environment, learning to use Jekyll, **or even typing a single line of code**. It's ideal for GitHubbers
-who want to start building their personal website on [GitHub Pages](https://pages.github.com/), but maybe aren't so familiar with web development.
-  
+i am aspiring urban design student, with a cross-discipline background ranging from theoretical math to studio arts, to mixed methods urban policy research.
 
-The default layout of **hello** is a streamlined single page with three major customizable sections: a required "about" section, an optional portfolio, and an optional CTA. Using [Liquid](https://shopify.github.io/liquid/) variables declared by in the config and index files, **hello** offers an easy-to-use design where all customizations necessary for a basic personal website can be written in [Markdown](https://www.markdownguide.org/basic-syntax/).  
+through design, i want to create warm, livable, and accessible places. 
+
+currently based in washington, dc. 
 

@@ -9,7 +9,7 @@ banner_subtitle: a personal and professional portfolio space
 background_image: /images/a_monday_washing,_new_york_city_Small.jpeg
 
 # all of the following variables are optional -----------------
-page_url: /hello # only include this variable if you aren't building the page to your primary domain 
+page_url: /home # only include this variable if you aren't building the page to your primary domain 
 
 # favicon
 favicon: /assets/ico/favicon.ico
@@ -22,8 +22,8 @@ linkedin: oliviafiol # the part after ("https://www.linkedin.com/in/...")
 # google_analytics: <-- your google analytics Tracking ID
 
 # By declaring these variables, you can include a button that links to an external website or to media.
-about_button: https://github.com/saragong/hello # the link
-about_button_label: get hello # the label on the button
+about_button: https://www.urban.org/author/olivia-fiol # the link
+about_button_label: published works # the label on the button
 
 # optional portfolio section ------------------------------------------
 

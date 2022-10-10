@@ -6,7 +6,7 @@ layout: hello-default
 # these variables are required -------------------------------
 banner_title: olivia fiol
 banner_subtitle: a personal and professional portfolio space
-background_image: /images/a_monday_washing,_new_york_city_2006.170.15.jpg
+background_image: /images/lace_1995.36.116.jpg
 
 # all of the following variables are optional -----------------
 page_url: /home # only include this variable if you aren't building the page to your primary domain 
@@ -18,6 +18,7 @@ favicon: /assets/ico/favicon.ico
 twitter_username: livfiol # # your twitter handle
 github_username:  olivefoil # your github username
 linkedin: oliviafiol # the part after ("https://www.linkedin.com/in/...")
+storygraph_username: olivefoil
 # facebook_username: <-- your facebook username (the part after "https://www.facebook.com/...")
 # google_analytics: <-- your google analytics Tracking ID
 

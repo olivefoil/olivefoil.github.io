@@ -16,7 +16,7 @@
 title: "hi there, my name is olivia fiol (she/her/ella)."
 email: 'oliviafiol2@gmail.com'
 description: "a personal portfolio"
-baseurl: "/home" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://olivefoil.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: 'livfiol'
 github_username: 'olivefoil'

@@ -5,7 +5,7 @@ layout: hello-default
 
 # these variables are required -------------------------------
 banner_title: olivia fiol
-banner_subtitle: a personal and professional portfolio space
+banner_subtitle: a personal and professional portfolio
 background_image: /images/lace_1995.36.116.jpg
 
 # all of the following variables are optional -----------------
